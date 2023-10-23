@@ -1,18 +1,24 @@
-# Final-Project-Template
+# Rural Poverty in Developing Countries
 <!-- Edit the title above with your project title -->
 
 ## Project Overview
+Rural poverty in developing countries remains a pressing global issue. It signifies a state of economic deprivation and limited access to basic necessities such as food, clean water, education, and healthcare among rural populations. This issue is of significant contemporary importance for several reasons:
+
+Human Welfare: Rural poverty directly affects the well-being of millions of individuals and communities, leading to malnutrition, limited educational opportunities, and inadequate healthcare.
+Economic Development: Rural areas often serve as the backbone of many developing countries' economies through agriculture. Addressing rural poverty is crucial for boosting agricultural productivity and overall economic growth.
+Social Disparities: Rural-urban disparities in income and resources exacerbate social inequalities, potentially leading to social unrest and political instability.
+Global Goals: The United Nations' Sustainable Development Goals (SDGs) aim to eradicate poverty. Tackling rural poverty is central to achieving these global targets.
 
 ## Self Assessment and Reflection
 
 <!-- Edit the following section with your self assessment and reflection -->
 
 ### Self Assessment
-<!-- Replace the (...) with your score -->
+<!-- Replace the (10) with your score -->
 
 | Category          | Score    |
 | ----------------- | -------- |
-| **Setup**         | ... / 10 |
+| **Setup**         | 10 / 10 |
 | **Execution**     | ... / 20 |
 | **Documentation** | ... / 10 |
 | **Presentation**  | ... / 30 |
@@ -21,9 +27,9 @@
 ### Reflection
 <!-- Edit the following section with your reflection -->
 
-#### What went well?
+#### What went well? I think this went well
 #### What did not go well?
-#### What did you learn?
+#### What did you learn? Trying to get my data and work on it
 #### What would you do differently next time?
 
 ---
