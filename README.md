@@ -60,7 +60,7 @@ Agricultural Reforms: Implementing sustainable farming practices and providing r
 Microfinance and Social Programs: Empowering rural communities through financial inclusion and support.
 
 
-Consequences of Rural Poverty:
+Consequences of  Poverty:
 Short-Term Impact: Malnutrition, diseases, limited opportunities, and poor living conditions.
 Long-Term Effects: Cycle of poverty, reduced economic productivity, social marginalization.
 
