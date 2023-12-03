@@ -19,18 +19,22 @@ Global Goals: The United Nations' Sustainable Development Goals (SDGs) aim to er
 | Category          | Score    |
 | ----------------- | -------- |
 | **Setup**         | 10 / 10 |
-| **Execution**     | ... / 20 |
-| **Documentation** | ... / 10 |
-| **Presentation**  | ... / 30 |
-| **Total**         | ... / 70 |
+| **Execution**     | 20 / 20 |
+| **Documentation** | 10 / 10 |
+| **Presentation**  | 30 / 30 |
+| **Total**         | 70 / 70 |
 
 ### Reflection
 <!-- Edit the following section with your reflection -->
 
-#### What went well? I think this went well
+#### What went well? 
+I believe the project ideation and execution went well
 #### What did not go well?
-#### What did you learn? Trying to get my data and work on it
+It was a bit difficult getting the data thatn accurately describes what I was looking for from the web
+#### What did you learn? 
+I learnt a lot about the economic indications, the poverty levels and rate, I had to do some more research in terms of the comparison of developing companies with developed countries. 
 #### What would you do differently next time?
+Learn more
 
 
 #### Here are my thoughts and some answers to the questions
