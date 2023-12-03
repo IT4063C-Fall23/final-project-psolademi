@@ -2,7 +2,7 @@
 <!-- Edit the title above with your project title -->
 
 ## Project Overview
-Rural poverty in developing countries remains a pressing global issue. It signifies a state of economic deprivation and limited access to basic necessities such as food, clean water, education, and healthcare among rural populations. This issue is of significant contemporary importance for several reasons:
+Poverty in developing countries remains a pressing global issue. It signifies a state of economic deprivation and limited access to basic necessities such as food, clean water, education, and healthcare among rural populations. This issue is of significant contemporary importance for several reasons:
 
 Human Welfare: Rural poverty directly affects the well-being of millions of individuals and communities, leading to malnutrition, limited educational opportunities, and inadequate healthcare.
 Economic Development: Rural areas often serve as the backbone of many developing countries' economies through agriculture. Addressing rural poverty is crucial for boosting agricultural productivity and overall economic growth.
